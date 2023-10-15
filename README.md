@@ -30,9 +30,10 @@ NeighbourGoods is a web application that allows users to buy, sell, trade, excha
    `npm install`
 
 4. Start the development server:
-    `npm start`
 
-5. Access the application in your web browser:
+   `npm start`
+
+6. Access the application in your web browser:
 http://localhost:3000
 
 ===========================================================================
