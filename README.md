@@ -21,7 +21,7 @@ NeighbourGoods is a web application that allows users to buy, sell, trade, excha
 
 1. Clone the repository:
 
-git clone https://github.com/RohanPranto/NeighbourGoods.git
+   git clone https://github.com/RohanPranto/NeighbourGoods.git
 
 2. Install project dependencies:
    
