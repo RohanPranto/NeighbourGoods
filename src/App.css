@@ -1,0 +1,36 @@
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Nanum Pen Script', cursive; */
+
+.navbar-brand{
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 2.7em;
+    padding: 0;
+    font-weight: bold;
+}
+.nav-item{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 0.9em;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 4em;
+}
+.para-text{
+    text-align: justify;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+.navbar{
+    padding: 0;
+}
+.mb-5 .row{
+    margin-left: auto;
+    margin-right: auto;
+}
+.card{
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
