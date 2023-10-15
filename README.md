@@ -21,16 +21,16 @@ NeighbourGoods is a web application that allows users to buy, sell, trade, excha
 
 1. Clone the repository:
 
-   git clone https://github.com/RohanPranto/NeighbourGoods.git
+  `git clone https://github.com/RohanPranto/NeighbourGoods.git`
 
 2. Install project dependencies:
    
-   cd neighbourgoods
+   `cd neighbourgoods`
 
-   npm install
+   `npm install`
 
 4. Start the development server:
-npm start
+   `npm start`
 
 5. Access the application in your web browser:
 http://localhost:3000
