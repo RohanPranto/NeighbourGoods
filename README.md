@@ -1,70 +1,59 @@
-# Getting Started with Create React App
+# NeighbourGoods
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+NeighbourGoods is a web application that allows users to buy, sell, trade, exchange, or rent various products within their neighborhood. This project provides a platform for local commerce, making it easier for users to find and connect with neighbors for their purchasing or trading needs.
 
-## Available Scripts
+===========================================================================
+## Features
 
-In the project directory, you can run:
+- **Buy**: Browse and purchase products listed by other users.
+- **Sell**: List your own products for sale within the neighborhood.
+- **Trade/Exchange/Rent**: Explore options to trade, exchange, or rent products with others.
+- **Cart**: Add items to your shopping cart for easy purchase.
+- **User Authentication**: Sign up and log in to your account for a personalized experience.
 
-### `npm start`
+===========================================================================
+- **Frontend**: React, Bootstrap
+- **Backend**: Firebase (Firestore)
+- **Authentication**: Auth0
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+===========================================================================
+## Installation
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. Clone the repository:
 
-### `npm test`
+     `git clone https://github.com/RohanPranto/NeighbourGoods.git`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+2. Install project dependencies:
 
-### `npm run build`
+   `cd neighbourgoods`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+   `npm install`
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+4. Start the development server:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+   `npm start`
 
-### `npm run eject`
+6. Access the application in your web browser:
+http://localhost:3000
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+===========================================================================
+## Usage
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **Buy**: Browse the available products in the "Buy" section and add items to your cart. Proceed to checkout to purchase.
+- **Sell**: List your products for sale in the "Sell" section, including a product name, price, and image.
+- **Trade/Exchange/Rent**: Explore options to trade, exchange, or rent products with others by negotiating with sellers directly.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Contributing
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+If you'd like to contribute to this project, please follow these steps:
 
-## Learn More
+1. Fork the project.
+2. Create your feature branch: `git checkout -b feature/YourFeatureName`
+3. Commit your changes: `git commit -m 'Add some feature'`
+4. Push to your branch: `git push origin feature/YourFeatureName`
+5. Create a pull request.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+===========================================================================
+## License
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is open-source and available under the [MIT License](LICENSE).
